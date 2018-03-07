@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{AA94BDA3-486B-4022-A534-E1966548B363}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProductsApp/Controllers/ProductsController.cs">
+    <Files>
+      <File FileName="ProductsApp/App_Start/WebApiConfig.cs" Line="12" Column="17" />
+      <File FileName="ProductsApp/Controllers/ProductsController.cs" Line="25" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ProductsApp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
